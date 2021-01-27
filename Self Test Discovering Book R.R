@@ -11,4 +11,6 @@ print(friend)
 friend<-friend[friend !="LRB"]
 friend
 friend<-c(friend,"MNA")
-friend<-c(friend,"Manni")
+friend
+friend<-friend[friend !="ZUA"]
+friend
